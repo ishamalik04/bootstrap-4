@@ -1,1 +1,1 @@
-/*A demo Website created using Bootsrap-4*/
+A demo Website created using Bootsrap-4
